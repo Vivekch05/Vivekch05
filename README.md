@@ -64,7 +64,7 @@ Built a reusable, themeable UI system used across 5+ company products.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekch05&layout=compact&theme=react" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vivekch05&layout=compact&theme=react" />
 </p>
 
 
