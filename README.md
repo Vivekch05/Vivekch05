@@ -44,49 +44,34 @@
 
 <div align="center">
 
-<!-- Project 1 -->
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="border:1px solid #eee; border-radius:10px; padding:10px; margin:5px; background:#f9f9f9;">
 **🎨 Modern Portfolio Website**  
-A responsive, high-performance personal portfolio built with **Next.js**, showcasing frontend engineering and UI/UX expertise.  
-- Implemented **SSR + Static Optimization** for fast performance  
-- Developed **component-driven UI system** with Tailwind CSS  
-- Added **Framer Motion animations** for fluid interactions  
-- Designed modular **project showcase dashboard**
-
-**Tech Stack:** Next.js, React, Tailwind CSS, Framer Motion, Vercel  
+Next.js portfolio showcasing responsive UI, SSR, and animations.  
+- Tailwind CSS components  
+- Framer Motion animations  
+- Optimized performance  
 </td>
 
-<!-- Project 2 -->
-<td width="33%" valign="top">
-**🧩 Interactive UI/UX Component Library**  
-Reusable, scalable UI component library demonstrating design system principles.  
-- Built **modular components** with consistent typography, spacing, and themes  
-- Created **custom React hooks** for dropdowns, modals, and event handling  
-- Ensured **full responsiveness** and cross-device consistency  
-- Applied **UI/UX best practices** in hierarchy and micro-interactions  
-
-**Tech Stack:** React.js, Tailwind CSS, JavaScript, Storybook, CSS Animations  
+<td width="33%" valign="top" style="border:1px solid #eee; border-radius:10px; padding:10px; margin:5px; background:#f9f9f9;">
+**🧩 UI/UX Component Library**  
+Reusable React components demonstrating design system principles.  
+- Custom hooks for modals & dropdowns  
+- Responsive & accessible  
 </td>
 
-<!-- Project 3 -->
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="border:1px solid #eee; border-radius:10px; padding:10px; margin:5px; background:#f9f9f9;">
 **📊 Dynamic Dashboard Web App**  
-Production-style, data-driven dashboard with real-time updates and interactive widgets.  
-- Integrated **REST APIs** for live data visualization  
-- Built **reusable dashboard widgets**: charts, tables, filters  
-- Implemented **client-side state management** (Context API / Redux)  
-- Optimized rendering with **memoization and lazy loading**  
-- Designed **clean analytics layout** following SaaS dashboard patterns  
-
-**Tech Stack:** React.js, Next.js, Chart.js / Recharts, Tailwind CSS, REST APIs  
+Production-ready dashboard with API integration & widgets.  
+- Recharts / Chart.js visualization  
+- Context API / Redux state management  
+- Lazy loading & memoization  
 </td>
 </tr>
 </table>
 
 </div>
-
 
 ---
 
