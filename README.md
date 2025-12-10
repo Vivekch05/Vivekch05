@@ -42,14 +42,51 @@
 
 ## 📂 Highlighted Projects
 
-### 🔸 **[Project 1 – Enterprise React Dashboard](#)**
-A scalable multi-widget React dashboard with dynamic layouts, caching, and real-time updates.
+<div align="center">
 
-### 🔸 **[Project 2 – Performance-Optimized E-commerce UI](#)**
-Reduced load time by 48% using memoization, lazy loading, and code splitting.
+<!-- Project 1 -->
+<table>
+<tr>
+<td width="33%" valign="top">
+**🎨 Modern Portfolio Website**  
+A responsive, high-performance personal portfolio built with **Next.js**, showcasing frontend engineering and UI/UX expertise.  
+- Implemented **SSR + Static Optimization** for fast performance  
+- Developed **component-driven UI system** with Tailwind CSS  
+- Added **Framer Motion animations** for fluid interactions  
+- Designed modular **project showcase dashboard**
 
-### 🔸 **[Project 3 – Custom React Component Library](#)**
-Built a reusable, themeable UI system used across 5+ company products.
+**Tech Stack:** Next.js, React, Tailwind CSS, Framer Motion, Vercel  
+</td>
+
+<!-- Project 2 -->
+<td width="33%" valign="top">
+**🧩 Interactive UI/UX Component Library**  
+Reusable, scalable UI component library demonstrating design system principles.  
+- Built **modular components** with consistent typography, spacing, and themes  
+- Created **custom React hooks** for dropdowns, modals, and event handling  
+- Ensured **full responsiveness** and cross-device consistency  
+- Applied **UI/UX best practices** in hierarchy and micro-interactions  
+
+**Tech Stack:** React.js, Tailwind CSS, JavaScript, Storybook, CSS Animations  
+</td>
+
+<!-- Project 3 -->
+<td width="33%" valign="top">
+**📊 Dynamic Dashboard Web App**  
+Production-style, data-driven dashboard with real-time updates and interactive widgets.  
+- Integrated **REST APIs** for live data visualization  
+- Built **reusable dashboard widgets**: charts, tables, filters  
+- Implemented **client-side state management** (Context API / Redux)  
+- Optimized rendering with **memoization and lazy loading**  
+- Designed **clean analytics layout** following SaaS dashboard patterns  
+
+**Tech Stack:** React.js, Next.js, Chart.js / Recharts, Tailwind CSS, REST APIs  
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
