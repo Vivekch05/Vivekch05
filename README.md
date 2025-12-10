@@ -56,12 +56,12 @@ Built a reusable, themeable UI system used across 5+ company products.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vivekch05
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vivekch05&theme=react
 " />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekch05&theme=react" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Vivekch05&theme=react" />
 </p>
 
 <p align="center">
