@@ -1,110 +1,85 @@
-<h1 align="center">Hi 👋, I'm Vivek Chaurasia </h1>
+<h1 align="center">Hi 👋, I'm Vivek Chaurasia</h1>
 <h3 align="center">Senior Frontend Engineer | React.js Specialist | UI Performance Architect</h3>
 
 ---
 
 ## 🚀 About Me  
-🔹 7+ years of experience building high-performance, scalable frontend applications  
-🔹 React.js expert (Hooks, Context, Redux, Next.js, TypeScript)  
-🔹 Strong architecture knowledge: micro-frontends, design systems, reusable components  
-🔹 Focused on performance: memoization, code splitting, lazy loading, SSR, hydration  
-🔹 Passionate mentor & engineering leader  
+
+💼 7+ years building scalable, high-performance frontend systems  
+⚛️ React.js Expert — Hooks, Context, Redux, Next.js, TypeScript  
+🏗️ Frontend Architecture — Micro-frontends, Design Systems, Reusable Components  
+⚡ Performance Optimization — Code Splitting, Memoization, SSR, Hydration  
+👨‍🏫 Mentor & Engineering Leader  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&style=for-the-badge" />
+### Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" />
 </p>
 
-### **Testing**
-<p>
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&style=for-the-badge" />
-<img src="https://img.shields.io/badge/ReactTestingLibrary-E33332?logo=testing-library&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&style=for-the-badge" />
+### Testing
+<p align="left">
+<img src="https://skillicons.dev/icons?i=jest,cypress" />
 </p>
 
-### **Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/Vercel-black?logo=vercel&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&style=for-the-badge" />
+### Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,github,vscode" />
 </p>
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top" style="border:1px solid #eee; border-radius:10px; padding:10px; margin:5px; background:#f9f9f9;">
-**🎨 Modern Portfolio Website**  
-Next.js portfolio showcasing responsive UI, SSR, and animations.  
-- Tailwind CSS components  
+### 🎨 Modern Portfolio Website
+- Built with Next.js & Tailwind  
 - Framer Motion animations  
-- Optimized performance  
-</td>
+- SSR optimized  
+- Lighthouse performance focused  
 
-<td width="33%" valign="top" style="border:1px solid #eee; border-radius:10px; padding:10px; margin:5px; background:#f9f9f9;">
-**🧩 UI/UX Component Library**  
-Reusable React components demonstrating design system principles.  
-- Custom hooks for modals & dropdowns  
-- Responsive & accessible  
-</td>
+---
 
-<td width="33%" valign="top" style="border:1px solid #eee; border-radius:10px; padding:10px; margin:5px; background:#f9f9f9;">
-**📊 Dynamic Dashboard Web App**  
-Production-ready dashboard with API integration & widgets.  
-- Recharts / Chart.js visualization  
-- Context API / Redux state management  
+### 🧩 UI Component Library
+- Reusable scalable components  
+- Custom Hooks  
+- Accessibility-first  
+- Design system architecture  
+
+---
+
+### 📊 Dynamic Dashboard
+- API-driven widgets  
+- Redux / Context state management  
+- Chart.js / Recharts  
 - Lazy loading & memoization  
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vivekch05&show_icons=true&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vivekch05&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekch05&theme=react" />
+<img src="https://streak-stats.demolab.com?user=Vivekch05&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vivekch05&layout=compact&theme=react" />
-</p>
-
-
----
-
-## 🐍 Contribution Graph Snake
-<p align="center">
-  <img src="https://github.com/vivekch05/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekch05&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vivekch123/ 
-🔗 **Portfolio:** https://vivekchaurasia.vercel.app/ 
-🔗 **Email:** vivek.kch05@gmail.com
+## 🌐 Connect With Me  
+
+🔗 LinkedIn: https://www.linkedin.com/in/vivekch123/  
+🔗 Portfolio: https://vivekchaurasia.in/  
+📩 Email: vivek.kch05@gmail.com  
 
 ---
 
 <h3 align="center">“Write code that is simple, scalable, and a joy for others to maintain.”</h3>
-
